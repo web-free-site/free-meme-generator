@@ -1,7 +1,7 @@
 {
   "name": "free-meme-generator",
   "version": "1.0.0",
-  "description": "Free Meme Generator — add text to images in your browser. No upload, no watermark.",
+  "description": "Free Meme Generator \u2014 add text to images in your browser. No upload, no watermark.",
   "source": "src/index.html",
   "scripts": {
     "lint": "eslint src/js/**",
@@ -10,7 +10,7 @@
     "generateSW": "workbox generateSW",
     "start": "parcel",
     "build:parcel": "parcel build --dist-dir=dist --public-url=./",
-    "build": "npm-run-all clean build:parcel build:site",
+    "build": "npm-run-all clean build:parcel build:site && node scripts/inject-hub-legal.mjs",
     "build:site": "node scripts/postbuild.mjs",
     "verify": "node scripts/verify.mjs"
   },
