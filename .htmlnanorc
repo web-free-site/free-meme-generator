@@ -1,0 +1,5 @@
+{
+  "minifySvg": false,
+  "removeRedundantAttributes": false,
+  "removeOptionalTags": false
+}

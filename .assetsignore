@@ -1,0 +1,15 @@
+AGENT_BRIEF.md
+wrangler.toml
+package.json
+package-lock.json
+.git/
+node_modules/
+.parcel-cache/
+scripts/
+src/
+screenshots/
+.editorconfig
+eslint.config.mjs
+workbox-config.js
+worker.js
+.husky/
