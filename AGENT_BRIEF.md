@@ -68,14 +68,14 @@ Code formats (KEY = the 32-char placeholder, later a 32-hex hash):
 - Banner WxH: <script>atOptions = {'key':'KEY','format':'iframe','height':H,'width':W,'params':{}};</script><script src="https://bauval.org/22/KEY"></script>
 - Smartlink URL: https://araplhn.org/4/KEY
 
-## free-meme-generator.web-free.site — site ID SITE_ID_PENDING
-Popunder wf23bplaceholderpopunder00000000
-Native Banner wf23bplaceholdernativebanner0000
-Smartlink wf23bplaceholdersmartlink0000000
-Social Bar wf23bplaceholdersocialbar0000000
-468x60 wf23bplaceholderbanner468x600000
-160x300 wf23bplaceholderbanner160x300000
-320x50 wf23bplaceholderbanner320x500000
-300x250 wf23bplaceholderbanner300x250000
-160x600 wf23bplaceholderbanner160x600000
-728x90 wf23bplaceholderbanner728x900000
+## free-meme-generator.web-free.site — site ID 6222776
+Popunder d9939bc05b680f54716f3de83fdc2258
+Native Banner 9d2a68a3c579ec29c8ce1b88705bbb8d
+Smartlink 2fef6487c98fd2e12bfa3a9d38da9c2c
+Social Bar bada27819bcd3fa99c3a1ebe3d4e9cd7
+468x60 ffcda077ee626a3d6a50455d5dafff02
+160x300 21da304ff2c17568b6fb003a73fb79c8
+320x50 a324c275e3796c9565b4807b3eba40fe
+300x250 d29ed041f6d9149c30ca1d74fb4d5f79
+160x600 eee9ee73cd97ba54809e356e0ee9a075
+728x90 296bed53a6fd5a7bb9a7831fade651e4

